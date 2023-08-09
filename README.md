@@ -63,8 +63,6 @@ Ready to connect! I'm excited to join forces with developers, experts, and colla
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yennyferjp&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yennyferjp&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yennyferjp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
