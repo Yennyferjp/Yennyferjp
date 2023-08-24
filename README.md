@@ -24,10 +24,14 @@
 ## 💻 Technical Toolbox
 
 - **Client-Side**: HTML, CSS, JavaScript, Figma, Firebase, Firestore.
-- **Server-Side**: Node.js.
-- **Development**: Git, Github, Trello, SCRUM.
+- **Server-Side**: Node.js, Firebase, Firestore.
+- **Development**: VS Code, Markdown, Mermaid, Jest, ESLint, Git, Github, Trello, SCRUM.
 
 ## 🚀 Projects
+
+- 🌐 [Md-Link: Markdown 🔗](https://www.npmjs.com/package/yennjp-md-links):
+
+    "Md-Link" is JavaScript tool that scans Markdown files to find links, meticulously checks them for validity, and generates detailed reports about their status. Using npm for handling dependencies, this Node.js-powered library not only detects broken links but also provides clear and concise statistics.📎
 
 - 🌐 [Social Network - VeganBook 🌱 : A Conscious Social Experience 🌍](https://dev-008-social-network-veganbook.vercel.app/):
 
@@ -43,15 +47,13 @@
 
 ## 🔍 Currently Exploring
 
-I'm always looking for new challenges and expanding my skills.
-I'm developing a tool that analyzes Markdown files to extract information about the links present.
+I am creating software for a growing burger restaurant. I am designing an interface where they can take orders using a tablet and send them to the kitchen to be prepared neatly and efficiently through the backend 🍔.
 
 ## 🤝 Let's Connect!
 
 Ready to connect! I'm excited to join forces with developers, experts, and collaborators. Get in touch via email or on LinkedIn, and let's explore exciting opportunities together. Let's create something amazing!
 
 ✨ Together, let's create remarkable experiences that bridge the gap between technology and humanity! ✨
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yennyferjp/) 
