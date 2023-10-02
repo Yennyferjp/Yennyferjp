@@ -10,7 +10,8 @@
 
 <div align="center">
 <p>
-  <a href="mailto:yennyfer.jarava92@gmail.com" target="_blank"><img src="./icons/email.png" alt="Email" width="30"></a>
+  <a href="mailto:yennyfer.jarava92@gmail.com"><img src="./icons/email.png" alt="Email" width="30"></a> 
+
 </p>
 </div>
 
@@ -28,19 +29,19 @@
 
 ## 🚀 Projects
 
-- 🌐 [Md-Link: Markdown 🔗](https://www.npmjs.com/package/yennjp-md-links) target="_blank":
+- 🌐 [Md-Link: Markdown 🔗](https://www.npmjs.com/package/yennjp-md-links):
 
     "Md-Link" is JavaScript tool that scans Markdown files to find links, meticulously checks them for validity, and generates detailed reports about their status. Using npm for handling dependencies, this Node.js-powered library not only detects broken links but also provides clear and concise statistics.📎
 
-- 🌐 [Social Network - VeganBook 🌱 : A Conscious Social Experience 🌍](https://dev-008-social-network-veganbook.vercel.app/) target="_blank":
+- 🌐 [Social Network - VeganBook 🌱 : A Conscious Social Experience 🌍](https://dev-008-social-network-veganbook.vercel.app/):
 
     "VeganBook" is a collaborative social network aimed at both vegans and non-vegans. It offers the ability to post content, give likes, and delete posts. The platform uses modern technologies and a responsive interface to provide a seamless experience on various devices. The management of databases is done securely and efficiently. This project reflects our passion for creating inclusive and community-centered digital spaces.
 
-- 🌐 [Data Lovers: 👩‍🍳Delie Restaurant](https://yennyferjp.github.io/DEV008-data-lovers/) target="_blank":
+- 🌐 [Data Lovers: 👩‍🍳Delie Restaurant](https://yennyferjp.github.io/DEV008-data-lovers/):
 
     "Delie Restaurant" is an interface that displays a variety of restaurant dishes and reflects an interactive web page. Users can explore a wide range of culinary options and use a search bar to find specific dishes.
 
-- 🌐 [Caesar Cipher: 🔒 CipherPrivate](https://github.com/Yennyferjp/CipherPrivate) target="_blank":
+- 🌐 [Caesar Cipher: 🔒 CipherPrivate](https://github.com/Yennyferjp/CipherPrivate):
 
     "CipherPrivate" I developed my first project: a web application for encrypting and decrypting text using character shifting. I focused on design and interface using HTML for structure, CSS for style, and JavaScript for encryption logic. It was my entry point into the world of programming 🚀.
 
@@ -65,6 +66,8 @@ Ready to connect! I'm excited to join forces with developers, experts, and colla
 ![](https://github-readme-stats.vercel.app/api?username=Yennyferjp&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yennyferjp&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yennyferjp&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yennyferjp&limit=5&theme=onedark&combine_all_yearly_contributions=true)
