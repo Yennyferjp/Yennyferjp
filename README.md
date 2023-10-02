@@ -56,7 +56,7 @@ Ready to connect! I'm excited to join forces with developers, experts, and colla
 ✨ Together, let's create remarkable experiences that bridge the gap between technology and humanity! ✨
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yennyferjp/](https://www.linkedin.com/in/yennyferjp/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yennyferjp)
 
 <div align="center">
 
