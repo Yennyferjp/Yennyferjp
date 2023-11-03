@@ -41,7 +41,7 @@
 
     "Delie Restaurant" is an interface that displays a variety of restaurant dishes and reflects an interactive web page. Users can explore a wide range of culinary options and use a search bar to find specific dishes.
 
-- 🌐 [Caesar Cipher: 🔒 CipherPrivate](https://github.com/Yennyferjp/CipherPrivate):
+- 🌐 [Caesar Cipher: 🔒 CipherPrivate](https://yennyferjp.github.io/CipherPrivate/):
 
     "CipherPrivate" I developed my first project: a web application for encrypting and decrypting text using character shifting. I focused on design and interface using HTML for structure, CSS for style, and JavaScript for encryption logic. It was my entry point into the world of programming 🚀.
 
