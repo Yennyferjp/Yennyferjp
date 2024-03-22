@@ -23,9 +23,11 @@
 
 ## 💻 Technical Toolbox
 
-- **Client-Side**: HTML, CSS, JavaScript, React, Figma, Firebase, Firestore.
-- **Server-Side**: Node.js, Express, Firebase, Firestore, Manejo API, HTTP, MongoDB, Docker.
-- **Development**: VS Code, Markdown, Mermaid, Jest, ESLint, Git, Github, Trello, SCRUM.
+- **Client-Side**: HTML, CSS, JavaScript, React, Figma.
+- **Server-Side**: Java, Spring Boot, Firebase, Firestore, Node.js, Express, Manejo de API, HTTP,  Docker.
+- **Database**: MongoDB, SQL, PostgreSQL.
+- **Development**: VS Code, Markdown, Mermaid, IntelliJ IDEA, ESLint, Git, GitHub, Trello, SCRUM.
+- **Test**: Jest, JUnit, Mockito.
 
 ## 🚀 Projects
 
